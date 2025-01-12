@@ -5,6 +5,8 @@ This project aims to replicate a Long/Short  Strategy on European stocks, as des
 
 The strategy is rebalanced monthly and utilizes historical return and Price-to-Book (P/B) ratios for stock selection.
 
+---
+
 ## **Methodology**
 The project follows a three-step approach to implement the strategy:
 
@@ -26,15 +28,21 @@ Both the long and short portfolios are weighted proportionally to the absolute v
 - The performance of the strategy is compared with the benchmark (e.g., CAC 40, S&P 500).
 - The strategy outperforms the CAC 40 index over the 25 years, as demonstrated by the capital evolution graph.
 
+---
+
 ## **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## **Files Included**
 1.  The data for this strategy comes from the '**DATA.xlsx**' file, which contains:
 - Monthly returns for European stocks.
 - Price-to-Book ratios for each stock.
 - Monthly returns for the benchmark.
-  
+
+---
+
 ## **Contact**
 For any questions or feedback, feel free to reach out to me via email or LinkedIn:
 - **Email**: [ahmed.mili@edu.devinci.fr](mailto:ahmed.mili@edu.devinci.fr)
