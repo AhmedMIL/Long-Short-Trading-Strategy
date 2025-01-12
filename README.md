@@ -1,6 +1,5 @@
 # **Long-Short Strategy on European Stocks**
 
----
 
 ## **Project Overview**
 This project aims to replicate a Long/Short Strategy on European stocks, as described in the provided data and methodology. The strategy combines two well-known factors - momentum score and value score — to select stocks for long and short positions in the European equity market.
