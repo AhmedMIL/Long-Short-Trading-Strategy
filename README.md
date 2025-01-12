@@ -1,7 +1,9 @@
-# **Long-Short Strategy  on European Stocks**
+# **Long-Short Strategy on European Stocks**
+
+---
 
 ## **Project Overview**
-This project aims to replicate a Long/Short  Strategy on European stocks, as described in the provided data and methodology. The strategy combines two well-known factors - momentum score and value score — to select stocks for long and short positions in the European equity market.
+This project aims to replicate a Long/Short Strategy on European stocks, as described in the provided data and methodology. The strategy combines two well-known factors - momentum score and value score — to select stocks for long and short positions in the European equity market.
 
 The strategy is rebalanced monthly and utilizes historical return and Price-to-Book (P/B) ratios for stock selection.
 
@@ -38,11 +40,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## **Files Included**
-1.  The data for this strategy comes from the '**DATA.xlsx**' file, which contains:
-- Monthly returns for European stocks.
-- Price-to-Book ratios for each stock.
-- Monthly returns for the benchmark.
-  
+1. The data for this strategy comes from the '**DATA.xlsx**' file, which contains:
+   - Monthly returns for European stocks.
+   - Price-to-Book ratios for each stock.
+   - Monthly returns for the benchmark.
+
 ---
 
 ## **Contact**
@@ -50,3 +52,6 @@ For any questions or feedback, feel free to reach out to me via email or LinkedI
 - **Email**: [ahmed.mili@edu.devinci.fr](mailto:ahmed.mili@edu.devinci.fr)
 - **LinkedIn**: [Ahmed Mili](https://www.linkedin.com/in/ahmedmili/)
 - **GitHub**: [Ahmed Mili's GitHub](https://github.com/AhmedMIL)
+
+---
+
