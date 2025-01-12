@@ -27,7 +27,7 @@ Both the long and short portfolios are weighted proportionally to the absolute v
 
 ## **Results**
 - By investing €100,000 in the strategy in March 2008, the investment would grow to approximately €270,500 by March 2023, resulting in a profit of €170,500.
-- The annualized return (CAGR) for an investment starting at €100,000 and growing to €270,000 over 25 years is approximately 4.89% per year. This means that, on average, the capital grew by this percentage annually over the 25-year period.
+- The annualized return (CAGR) for an investment starting at €100,000 and growing to €270,500 over 25 years is approximately 4.89% per year. This means that, on average, the capital grew by this percentage annually over the 25-year period.
 - The performance of the strategy is compared with the benchmark (e.g., CAC 40, S&P 500).
 - The strategy outperforms the CAC 40 index over the 25 years, as demonstrated by the capital evolution graph.
 
