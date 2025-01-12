@@ -1,5 +1,7 @@
 # **Long-Short Strategy  on European Stocks**
 
+---
+
 ## **Project Overview**
 This project aims to replicate a Long/Short  Strategy on European stocks, as described in the provided data and methodology. The strategy combines two well-known factors - momentum score and value score — to select stocks for long and short positions in the European equity market.
 
@@ -22,6 +24,8 @@ The project follows a three-step approach to implement the strategy:
 ### 3. Portfolio Construction
 Both the long and short portfolios are weighted proportionally to the absolute values of their respective global scores. The strategy invests 100% in both the long and short portfolios.
 
+---
+
 ## **Results**
 - By investing €100,000 in the strategy in March 2008, the investment would grow to approximately €270,500 by March 2023, resulting in a profit of €170,500.
 - The annualized return (CAGR) for an investment starting at €100,000 and growing to €270,000 over 25 years is approximately 4.89% per year. This means that, on average, the capital grew by this percentage annually over the 25-year period.
@@ -40,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Monthly returns for European stocks.
 - Price-to-Book ratios for each stock.
 - Monthly returns for the benchmark.
-
+  
 ---
 
 ## **Contact**
